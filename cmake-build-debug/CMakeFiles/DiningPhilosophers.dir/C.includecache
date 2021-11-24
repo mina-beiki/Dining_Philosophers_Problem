@@ -7,12 +7,10 @@
 #IncludeRegexTransform: 
 
 /Users/a/CLionProjects/DiningPhilosophers/main.c
-time.h
+pthread.h
+-
+semaphore.h
 -
 stdio.h
--
-unistd.h
--
-pthread.h
 -
 
